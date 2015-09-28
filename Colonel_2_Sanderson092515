@@ -1,0 +1,16 @@
+Journal
+
+ls will list files.
+ls -r will lit files in reverse order
+ls -u will list files by access time
+You would do this to see what files are being actively used
+Through using grep and piping through unwanted characters.
+Grep and piping through all alphabetical characters, leaving only numbers.
+The same way, but ignoring numbers instead of letters
+sort "phrase you are searching for"
+For the purpose of being more specific 
+the find command will locate files
+find.XLS will locate XLS files
+find file will locate file and provide specs
+You'd do this to find a file extension name and details.
+
