@@ -1,0 +1,6 @@
+Evan Sanderson
+
+wget "web address"
+cat directory.cfm
+grep -oai "@[^ ]*" directory.cfm | sort -u
+
