@@ -1,0 +1,5 @@
+A file system is a directory host or manager for an OS.
+An inode stores data like files and directories on a disk.
+A disk partition stores the OS.
+A journaliing file system keeps track of log times and access times, etc.
+
