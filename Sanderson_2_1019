@@ -1,0 +1,7 @@
+A disk image is an exact copy of a storage device.
+The command to make a disk image is dd.
+A disk partition is the logical division of a hard disk.
+Each disk can have four disk partitions.
+The disadvantages of disk partitioning are slower data moves and reduced space.
+Defragmenting the hard drive will allow it to run faster.
+
