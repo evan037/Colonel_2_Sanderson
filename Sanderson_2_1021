@@ -1,0 +1,7 @@
+Data carving is a search technique used for the recovery of data without extracting the data.
+
+File carving is done on the disk image by searching through the input. 
+
+It relates to what we were doing because we were trying to access the input and data of an image file.
+
+
