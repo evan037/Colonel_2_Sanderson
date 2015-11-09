@@ -1,0 +1,1 @@
+To recover deleted images, you must cfdisk, fallocate, and kpartx, creating duplicate partitions. In order to do this, one must know the partition size and the image name.
