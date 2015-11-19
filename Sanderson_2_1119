@@ -1,0 +1,8 @@
+First we search for JFIF. We search for ffd8 by using the command grep
+Then we  to find the line.
+Using the value from that - we use xxd and bc to convert binary to a decimal number.
+For example, in the example from yesterday, we found hexadecimal and converted it to decimal using the command bc
+Then to find the end of the file, we searched for JFIF using the command grep.
+******************************************************
+Using that information, we find the number of bits, using the command ffd8
+Then using dd we can reconstruct the file using the command cat.
