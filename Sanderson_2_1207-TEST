@@ -1,0 +1,14 @@
+To generalize a skill is to utilize a given skill to the extent of usiing it beyond its original purpose. For example, recovering a file can be used for more than justice purposes. It can be used for one's own benefit as well.
+
+Questions likely to be on the final:
+
+How to recover an image?
+	using kpartx, cfdisk, fallocate
+How to split an image?
+	using the command split.
+How to join files with one another?
+	by using the cat command
+how to find a file extension?
+	by using ibase, dd, echo, skip, etc.
+
+These questions are asked because the are key components to digital forensics.
